@@ -1,6 +1,6 @@
 # SPA PERRITOS
 ---------------------------
-##### En este proyecto es inspirado en una clinica veterinaria que ofrece servicios multiples para el cuidado de tu mascota asi como la seguridad de que ese compañero fiel siempre estara en su mejor versión.
+##### Este proyecto es inspirado en una clínica veterinaria que ofrece servicios múltiples para el cuidado de tu mascota así como la seguridad de que ese compañero fiel siempre estará en su mejor versión.
 
 #### Esta sera la vista previa de la pagina web acorde a nuestro proyecto.
 

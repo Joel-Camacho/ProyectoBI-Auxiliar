@@ -4,4 +4,4 @@
 
 #### Esta sera la vista previa de la pagina web acorde a nuestro proyecto.
 
-![logo proyecto](https://lh3.googleusercontent.com/kADQMByihK69-ZGpR3eIMY0RpMKFQYV6Yq2LgAOoi7dt0y6HT-UcYxSFkLbvWMkB30p9MQ=s160)
+![logo proyecto](https://1.bp.blogspot.com/-x4RvZgIET7Q/X5GC40Ir2BI/AAAAAAAAGL0/6QX8j6ePXN4aEtKegYCIrP6HEMjSwJU6QCLcBGAsYHQ/w629-h334/ProyectoBI.PNG)

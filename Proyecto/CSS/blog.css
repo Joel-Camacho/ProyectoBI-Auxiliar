@@ -1,0 +1,34 @@
+#blog h3, h4 {
+    text-align: center;
+    padding: 15px;
+}
+
+#blog .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article {
+    margin: 15px;
+}
+
+#blog img{
+    width: 100%;
+    max-width: 350px;
+}
+#blog p{
+    text-align: center;
+    padding: 15px;
+    text-align: justify;
+}
+
+#blog video{
+     width: 100%;
+    max-width: 600px;
+    
+}
+#blog table{
+    width: 100%;
+  
+}
